@@ -1,13 +1,3 @@
-﻿data-ai Intelligence
-Report,Compare
-Currency,USD
-Report Generation Time,03/28/2022 12:28:16 PDT
-Device,All Supported Devices
-Country/Region,Chile
-Date,"2016-12-01, 2022-02-28"
-Granularity,Monthly
-Vertical,App
-
 Unified App,Unified App Name,Market,Market Name,Company,Company Name,Company HQ,Company HQ Name,Parent Company,Parent Company Name,Start Date,End Date,Country/Region (from filter),Downloads,Cumulative Downloads,Revenue,Cumulative Revenue,RPD,Usage Penetration,Active Users,Install Penetration,Install Base,Open Rate,Avg Sessions / User,Avg Session Duration,Avg Time / User,Total Time,Avg Active Days,% Active Days,Share of Category Time,Avg MB / User,Avg MB / Session,Paid Downloads,Organic Downloads,% Paid Downloads,% Organic Downloads,Cumulative Avg Ratings,Cumulative Total Ratings,Incremental Avg Ratings,Incremental Total Ratings,Cumulative Favorable %,Cumulative Critical %,Incremental Favorable %,Incremental Critical %
 1000600000511639,Mercado Pago,all,All Markets,1000200000036876,MercadoLibre,AR,Argentina,1000200000036876,MercadoLibre,2016-12-01,2016-12-31,Chile,2215,30320,,,,,,,,,,,,,,,,,,0,2215,0.00%,100.00%,1.85,34,0.00,0,14.71%,76.47%,0.00%,0.00%
 1000600000511639,Mercado Pago,all,All Markets,1000200000036876,MercadoLibre,AR,Argentina,1000200000036876,MercadoLibre,2017-01-01,2017-01-31,Chile,1642,31962,,,,,,,,,,,,,,,,,,0,1642,0.00%,100.00%,1.83,35,1.00,1,14.29%,77.14%,0.00%,100.00%
